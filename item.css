@@ -1,0 +1,53 @@
+body{
+    color:whitesmoke;
+    background-color:black;
+}
+h1{
+    padding:10px;
+    text-align:center;
+    font-family:verdana;
+    color:black;
+    text-shadow:0 0 15px wheat, 0 0 5px white;
+    margin-top:10px;
+    text-transform:uppercase;
+    letter-spacing:10px;
+    box-shadow:0 0 20px white;
+    border-radius:50px;
+}
+.first{
+    display:inline-block;
+}
+a{
+    text-decoration:none;
+    color:red;
+}
+img {
+    border-radius:15px;
+    box-shadow:0 0 15px white;
+    width:100px;
+    height:150px;
+}
+.box {
+    width:190px;
+    height:254px;
+    background:#07182e;
+    position:relative;
+    display:flex;
+    place-content:center;
+    place-items:center;
+    overflow:hidden;
+    border-radius:20px;
+    margin:10px;
+    color:thistle;
+    text-align:center;
+    padding:10px;
+}
+
+h2{
+    margin-left:10px;
+}
+.box{
+    margin:10px;
+    box-shadow:0 0 15px skyblue;
+    margin-top:25px;
+}
